@@ -1,0 +1,14 @@
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
+
+.text {
+    font-weight: bold;
+    font-size: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+}
